@@ -15,3 +15,4 @@ namespace backend.Models
         public virtual ICollection<Permission> Permissions { get; set; }
     }
 }
+ 

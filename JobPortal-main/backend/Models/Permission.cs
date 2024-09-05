@@ -19,3 +19,4 @@ namespace backend.Models
         public virtual Role Role { get; set; }
     }
 }
+ 

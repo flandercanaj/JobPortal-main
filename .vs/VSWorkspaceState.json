@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\JobPortal-main",
+    "\\JobPortal-main\\backend",
+    "\\JobPortal-main\\backend\\DBContext",
+    "\\JobPortal-main\\backend\\Models",
+    "\\JobPortal-main\\backend\\Services"
+  ],
+  "SelectedNode": "\\JobPortal-main\\backend\\DBContext\\ApplicationDBContext.cs",
+  "PreviewInSolutionExplorer": false
+}
